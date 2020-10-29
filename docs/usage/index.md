@@ -4,7 +4,7 @@ The motivation behind creating testbook was to be able to write conventional uni
 
 ## How it works
 
-Testbook achieves conventional unit tests to be written by setting up references to variables/functions/classes in the Jupyter Notebook. All interactions with these reference objects are internally "pushed down" into the kernel, which is where it gets executed.
+Testbook allows conventional unit tests to be written by setting up references to variables/functions/classes in the Jupyter Notebook. All interactions with these reference objects are internally "pushed down" into the kernel, which is where it gets executed.
 
 ## Set up Jupyter Notebook under test
 
